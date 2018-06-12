@@ -1,0 +1,12 @@
+Library ieee;
+Use ieee.std_logic_1164.all;
+Entity InterruptUnit is  port
+	( FetchInterrupt,DecodeInterrupt,ExecuteInterrupt,jumper,retflush : in std_logic;
+          decodePC,executePC,memPC : out std_logic_vector(1 downto 0)); 
+end InterruptUnit;
+Architecture a_InterruptUnit of InterruptUnit is
+
+begin
+	
+
+end a_InterruptUnit;

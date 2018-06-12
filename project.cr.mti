@@ -1,0 +1,296 @@
+{D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/IntegratedALu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/IntegratedALu.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture ALU_ARCH of ALU
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Fetch.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Fetch.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Fetch_Stage
+-- Compiling architecture Fetch_stage_imp of Fetch_Stage
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/PC_Unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/PC_Unit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity PC_Unit
+-- Compiling architecture PC_Unit_imp of PC_Unit
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Instruction_Memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Instruction_Memory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Instruction_Memory
+-- Compiling architecture Instruction_Memory_imp of Instruction_Memory
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/genmux4x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/genmux4x1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity genmux4x1
+-- Compiling architecture arch of genmux4x1
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/Decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/Decoder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder
+-- Compiling architecture decoderImp of decoder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/registers.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/registers.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nDFFs
+-- Compiling architecture a_my_nDFFs of my_nDFFs
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Forward_Unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Forward_Unit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Forward_Unit
+-- Compiling architecture Forward_Unit_imp of Forward_Unit
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Approval.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Approval.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Approval
+-- Compiling architecture arch of approval
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu control/ALUControlUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu control/ALUControlUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU_Control_Unit
+-- Compiling architecture ALU_Control_Unit_Arch of ALU_Control_Unit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/MicroProcessor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/MicroProcessor.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MicroProcessor
+-- Compiling architecture MicroProcessor_arch of MicroProcessor
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Decode_stage.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Decode_stage.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Decode_stage
+-- Compiling architecture Decode_Stage_imp of Decode_Stage
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/GenMux2x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/GenMux2x1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux
+-- Compiling architecture arch of mux
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Hazard detection unit/HazardDetectionUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Hazard detection unit/HazardDetectionUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Hazard_Detection_Unit
+-- Compiling architecture Hazard_Detection_Unit_Arch of Hazard_Detection_Unit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/MemoryStage.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/MemoryStage.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MemoryStage
+-- Compiling architecture MemoryStage_arch of MemoryStage
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Inc_part.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Inc_part.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Inc_part
+-- Compiling architecture Dimplement of Inc_part
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Excute_stage.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Excute_stage.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Excute_stage
+-- Compiling architecture Excute_stage_imp of Excute_stage
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/RegisterFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/RegisterFile.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registerfile
+-- Compiling architecture R_f of registerfile
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/Register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/RegFile/Register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nDFF
+-- Compiling architecture a_my_nDFF of my_nDFF
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Jmp control/Jump_Control_Unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Jmp control/Jump_Control_Unit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Jump_Control_Unit
+-- Compiling architecture Jump_Control_Unit_Arch of Jump_Control_Unit
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Mux8x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Mux8x1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8x1
+-- Compiling architecture arch of mux8x1
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/PC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/PC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture PC_imp of PC
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/SP_Handler.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/SP_Handler.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SPhandler
+-- Compiling architecture SPhandler_arch of SPhandler
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Shift_part.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Shift_part.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity shift_part
+-- Compiling architecture Cimplement of shift_part
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Logic_part.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Logic_part.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity logic_part
+-- Compiling architecture Aimplement of logic_part
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Rotate_part.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Alu/Rotate_part.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rotate_part
+-- Compiling architecture bimplement of rotate_part
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/genericReg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/genericReg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_SP
+-- Compiling architecture a_my_SP of my_SP
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/fullAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/fullAdder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/DataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/DataMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture DataMemory_arch of DataMemory
+
+} {} {}} {D:/college/junior2/Computer Architecture/2020/Arch_project/Control_Unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/college/junior2/Computer Architecture/2020/Arch_project/Control_Unit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Control_Unit
+-- Compiling architecture Control_Unit_imp of Control_Unit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/genericAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/genericAdder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/InterruptUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/InterruptUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InterruptUnit
+-- Compiling architecture a_InterruptUnit of InterruptUnit
+
+} {} {}}
